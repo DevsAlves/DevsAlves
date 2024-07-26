@@ -6,7 +6,7 @@
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark)
 
 ### Tecnologias que eu utilizo
 <div style="display: inline-block; padding-top: 10px;">

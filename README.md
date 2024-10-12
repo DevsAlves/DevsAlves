@@ -4,7 +4,6 @@
     <h2 style="font-size:200px; margin-bottom:5px">Gᴜɪʟʜᴇʀᴍᴇ Aʟᴠᴇꜱ</h2>
 </div>
 
-##
 <div align="center" style="text-align:center;" >
 <p style="font-size:16px">​Cᴏɴᴛᴀᴛᴏꜱ<p>
 

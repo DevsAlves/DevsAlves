@@ -6,12 +6,16 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-alves-lima-801693281)
 
+##
+
 <div align="center" style="margin-top:25px">
     <p style="font-size:20px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs</p>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js"/>
     </a>
 </div>
+
+## 
 
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=tokyonight)
 

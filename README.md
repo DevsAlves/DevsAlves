@@ -17,7 +17,7 @@
 <div align="center" style="margin-top:25px">
     <p style="font-size:20px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs</p>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js"/>
+        <img src="https://skillicons.dev/icons?i=html,css"/>
     </a>
 </div>
 

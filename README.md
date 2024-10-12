@@ -1,7 +1,7 @@
 
 
 <div align="center" style="text-align:center">
-    <p style="font-size:35px; margin-bottom:5px" >Guilherme Alves</p>
+    <p style="font-size:35px; margin-bottom:5px">Guilherme Alves</p>
 </div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-alves-lima-801693281)
@@ -20,6 +20,8 @@
 ![Alves GitHub stats](https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&layout=compact&theme=dark" alt="Top Linguagens" style="width: 40%;" />
 
 
 

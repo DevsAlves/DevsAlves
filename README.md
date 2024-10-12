@@ -1,7 +1,7 @@
 
 
-<div align="center" style="text-align:center">
-    <h2 style="font-size:200px; margin-bottom:100px">Gᴜɪʟʜᴇʀᴍᴇ Aʟᴠᴇꜱ</h2>
+<div align="center" style="text-align:center; justify-content:center">
+    <h2 style="font-size:200px; margin-bottom:20px">Gᴜɪʟʜᴇʀᴍᴇ Aʟᴠᴇꜱ</h2>
 </div>
 
 <div align="center" style="text-align:center;" >

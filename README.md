@@ -1,6 +1,8 @@
 
 
-### Guilherme Alves 
+<div align="center" style="text-align:center">
+    <p style="font-size:35px; margin-bottom:5px" >Guilherme Alves</p>
+</div>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-alves-lima-801693281)
 
@@ -8,11 +10,22 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark)
 
-### Tecnologias que eu utilizo
-<div style="display: inline-block; padding-top: 10px;">
+
+### Habilidades 
+
+
+<div align="center" style="margin-top:25px">
+    <p style="font-size:16px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs🤺</p>
+    <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,css,js"/>
+    </a>
+</div>
+
+
+<!-- <div style="display: inline-block; padding-top: 10px;">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<!--     <img  align="center"  alt="html5"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> -->
-</div><br/>
+     <img  align="center"  alt="html5"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+</div><br/> -->
 
 

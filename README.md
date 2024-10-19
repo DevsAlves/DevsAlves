@@ -28,8 +28,4 @@
 <div style="align-items:center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=tokyonight" alt="Alves GitHub stats" style="width: 400px; height:200px">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark" alt="Top Langs" style="width: 380px; height:200px">
-
-<br>
-
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Git&theme=radical" alt="Linguagens mais usadas" style="width: 300px; height:300px; text-align:center;" />
 </div>

@@ -18,7 +18,7 @@
 <div style="margin-top:25px">
     <h3 style="font-size:20px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css"/>
+        <img src="https://skillicons.dev/icons?i=html,css,mysql,git"/>
     </a>
 </div>
 

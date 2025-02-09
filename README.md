@@ -18,7 +18,7 @@
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <h3 style="font-size:20px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs</h3>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,mysql,git"/>
+        <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git"/>
     </a>
 </div>
 

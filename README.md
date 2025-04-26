@@ -1,12 +1,10 @@
 
 
-<div align="center" style="text-align:center; justify-content:center">
-    <h2 style="font-size:200px; margin-bottom:20px">Gᴜɪʟʜᴇʀᴍᴇ Aʟᴠᴇꜱ</h2>
+<div align="center">
+    <h2>Gᴜɪʟʜᴇʀᴍᴇ Aʟᴠᴇꜱ</h2> 
 </div>
 
-
-
-<div>
+<div align="center">
 <h3 style="font-size:16px">​Cᴏɴᴛᴀᴛᴏꜱ<h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guialv7s/) 
@@ -15,7 +13,7 @@
 
 ##
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div align="center">
     <h3 style="font-size:20px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,mysql,git,tailwind"/>
@@ -25,9 +23,10 @@
 ## 
 
 <!-- Estatísticas do git -->
-<div style="display: flex">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=dark" alt="Alves GitHub stats" style="width: 360px; height:200px">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark" alt="Top Langs" style="width: 360px; height:200px ">
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=dark" alt="Alves GitHub stats" style="width: 360px; height:200px"/>
+     &nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark" alt="Top Langs" style="width: 360px; height:200px"/>
 </div>
 
 <!-- Serpent -->

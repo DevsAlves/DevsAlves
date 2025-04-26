@@ -25,8 +25,16 @@
 ## 
 
 <!-- Estatísticas do git -->
-<div style="align-items:center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=dark" alt="Alves GitHub stats" style="width: 400px; height:200px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark" alt="Top Langs" style="width: 380px; height:200px">
+<div style="display: flex">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=dark" alt="Alves GitHub stats" style="width: 360px; height:200px">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark" alt="Top Langs" style="width: 360px; height:200px ">
 </div>
 
+<!-- Serpent -->
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Pedro-Git/Joao-Pedro-Git/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joao-Pedro-Git/Joao-Pedro-Git/output/github-contribution-grid-snake-dark.svg">
+      <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joao-Pedro-Git/Joao-Pedro-Git/output/github-contribution-grid-snake.svg">
+    </picture>
+</div>

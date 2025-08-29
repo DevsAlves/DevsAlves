@@ -1,11 +1,11 @@
 
 
 <div align="center">
-    <h2>Gᴜɪʟʜᴇʀᴍᴇ Aʟᴠᴇꜱ</h2> 
+    <h2>𝔊𝔲𝔦𝔩𝔥𝔢𝔯𝔪𝔢 𝔄𝔩𝔳𝔢𝔰</h2> 
 </div>
 
 <div align="center">
-<h3 style="font-size:16px">​Cᴏɴᴛᴀᴛᴏꜱ<h3>
+<h3 style="font-size:15px">​ℭ𝔬𝔫𝔱𝔞𝔠𝔱<h3>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guialv7s/) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-alves-lima-801693281)
@@ -14,7 +14,7 @@
 ##
 
 <div align="center">
-    <h3 style="font-size:20px">Mɪɴʜᴀs Hᴀʙɪʟɪᴅᴀᴅᴇs</h3>
+    <h3 style="font-size:15px">𝔖𝔨𝔦𝔩𝔩𝔰</h3>
     <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,py,selenium,git"/>
     </a>
@@ -25,7 +25,7 @@
 <!-- Estatísticas do git -->
 <div align="center">
 
-  <p style="font-size:17px">Eꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ ᴅᴏ GɪᴛHub:</p>
+  <h3 style="font-size:15px">𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰</h3>
 
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px " />

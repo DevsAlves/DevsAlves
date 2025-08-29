@@ -24,9 +24,9 @@
 
 <!-- Estatísticas do git -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=dark" alt="Alves GitHub stats" style="width: 360px; height:200px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=radical" alt="Alves GitHub stats" style="width: 360px; height:200px"/>
      &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=dark" alt="Top Langs" style="width: 360px; height:200px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=radical" alt="Top Langs" style="width: 360px; height:200px"/>
 </div>
 
 <!-- Serpent -->

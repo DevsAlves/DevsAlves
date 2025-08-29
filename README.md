@@ -24,10 +24,21 @@
 
 <!-- Estatísticas do git -->
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=radical" alt="Alves GitHub stats" style="width: 360px; height:200px"/>
-     &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=radical" alt="Top Langs" style="width: 360px; height:200px"/>
+
+  <p style="font-size:17px">Eꜱᴛᴀᴛíꜱᴛɪᴄᴀꜱ ᴅᴏ GɪᴛHub:</p>
+
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px " />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevsAlves&theme=radical" alt="GitHub Streak" style="width: 430px" />
+  </div>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 360px; height:200px" />
+  
+
 </div>
+
 
 <!-- Serpent -->
 <div align="center">

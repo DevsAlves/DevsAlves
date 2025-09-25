@@ -27,16 +27,18 @@
 
   <h3 style="font-size:15px">𝔖𝔱𝔞𝔱𝔦𝔰𝔱𝔦𝔠𝔰</h3>
 
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=radical" alt="Estatísticas do GitHub" style="width: 405px " />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevsAlves&theme=radical" alt="GitHub Streak" style="width: 430px" />
+  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+      <img 
+      src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=radical" 
+      alt="Estatísticas do GitHub" 
+      style="width: 405px;" 
+    />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=radical" 
+      alt="Linguagens mais usadas" 
+      style="width: 400px;" 
+    />
   </div>
-
-  <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&layout=compact&theme=radical" alt="Linguagens mais usadas" style="width: 360px; height:200px" />
-  
-
 </div>
 
 

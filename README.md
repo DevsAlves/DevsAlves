@@ -27,7 +27,7 @@ Sou programador e estudante de Análise e Desenvolvimento de Sistemas, com exper
 
 ### 𝚂𝚔𝚒𝚕𝚕𝚜
 
-<img src="https://skillicons.dev/icons?i=html,css,js,tailwind,mysql,py,selenium,git,docker"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,py,selenium,git,docker"/>
 
 ---
 

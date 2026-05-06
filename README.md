@@ -2,7 +2,6 @@
 
 Sou programador e estudante de Análise e Desenvolvimento de Sistemas, com experiência como estagiário full stack. Tenho perfil organizado e proativo, sempre buscando aprender novas tecnologias e evoluir no desenvolvimento de soluções eficientes.
 
----
 
 ### 𝙲𝚘𝚗𝚝𝚊𝚌𝚝𝚜
 
@@ -23,13 +22,11 @@ Sou programador e estudante de Análise e Desenvolvimento de Sistemas, com exper
 </p>
 
 
----
 
 ### 𝚂𝚔𝚒𝚕𝚕𝚜
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,py,selenium,git,docker"/>
 
----
 
 
 

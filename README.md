@@ -31,21 +31,7 @@ Sou programador e estudante de Análise e Desenvolvimento de Sistemas, com exper
 
 ---
 
-### 𝚂𝚝𝚊𝚝𝚒𝚜𝚝𝚒𝚌𝚜
 
-<div>
-  <img 
-    height="180"
-    width="48%"
-    src="https://github-readme-stats.vercel.app/api?username=DevsAlves&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
-<img 
- height="180"
- width="48%"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevsAlves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-/>
-
-</div>
 
 
 

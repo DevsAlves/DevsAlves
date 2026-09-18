@@ -22,6 +22,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,mysql,py,selenium,git,docker"/>
 
+![Languages](https://ghstats.dev/api/langs?username=DevsAlves&max_langs=10&layout=horizontal_list)
 
 
 
